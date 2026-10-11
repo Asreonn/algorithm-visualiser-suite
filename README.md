@@ -1,5 +1,7 @@
 # Algorithm Visualiser Suite
 
+> **Status:** Archived. Learning project from 2025 (Python). Kept as-is, not maintained.
+
 An advanced collection of desktop visualisation apps for classic algorithm families. Each project is intentionally isolated so new demos can be added or shipped independently while sharing a consistent design language, animation pipeline, and development workflow.
 
 ---
